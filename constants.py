@@ -1,0 +1,8 @@
+#!/usr/bin/env python3
+# Created by Sereke
+# Created on: October, 22, 2026
+# tHIS IS THE CONSTANTS THAT SHOW THE MINIMUM AGE AND MAXMUM AGE TO DATE SOMEONE'S GRANDSON
+
+
+MIN_AGE = 25
+MAX_AGE = 40
